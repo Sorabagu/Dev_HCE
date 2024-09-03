@@ -63,7 +63,7 @@
     </li>
     <li><h3>Technical Specifications</h3>
         <ul>
-            <li>Version: 1.1</li>
+            <li>Version: 1.2</li>
             <li>Software size: approximately 150MB</li>
             <li>Supported OS: Windows 10 and later</li>
             <li>Available language: English</li>
