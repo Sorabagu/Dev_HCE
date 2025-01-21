@@ -1,4 +1,5 @@
 # Dev - Éditeur de Code
+![Dev](https://img.shields.io/badge/version-1.3.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
 ![Dev Editor Logo](https://raw.githubusercontent.com/Sorabagu/Dev_HCE/refs/heads/screenshot/icon.png)
 
