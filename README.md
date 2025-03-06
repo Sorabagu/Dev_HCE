@@ -21,7 +21,7 @@ Ce projet a été développé dans un but **éducatif** pour permettre aux utili
 
 ---
 
-## 🛠️ Ingéniosité dans les codes
+## 🛠️ Codes
 
 ### 1️⃣ **Gestion de la prévisualisation (Real-Time Update)**
 
